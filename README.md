@@ -3,7 +3,7 @@ This repository contains data for the "Fast and Flexible Networking for Message-
 
 All source code and data used for or produced by this submission are publicly available.
 
-The experimental data in this repostory is under Creative Commons (CC0) license.
+The experimental data in this repostory is under Creative Commons (CC0) [license](https://cdn.rawgit.com/CaracalDB/ICDCS17/4463163c/LICENSE.html).
 
 ## Kompics
 *KompicsMessaging* is part of the Kompics framework itself. *Kompics* is open source under GNU General Public License, Version 2 (GPLv2) and can be found at <https://github.com/kompics/kompics>
